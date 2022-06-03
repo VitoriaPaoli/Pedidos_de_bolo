@@ -2,4 +2,4 @@
 
 ## Pagina Incial
 
-<img src="./bolos" alt="img bolo"
+<img src="./images/boloss.jpg" alt="img bolo">
